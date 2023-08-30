@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.block {
+    position: relative;
+    margin: 0 auto;
+    width: 100vw;
+    height: 100vh;
+    background: url("assets/background.jpg") center/cover no-repeat;
+}
+.btn-blue{
+    background: #3877EE;
+}
+
+input{
+    width: 41px;
+    height: 41px;
+    color: #FFF;
+    border: none;
+    cursor: pointer;
+    border-radius: 50%;
+    font-size: 1.5rem;
+}
+.btn-open{
+    min-width: 130px;
+    min-height: 38px;
+    border-radius: 40px;
+    border: none;
+    background: #6ABF4B;
+    text-align: left;
+    padding: 5px 10px;
+    color: #FFF;
+    font-size: 1.2rem;
+}
+
+.btn_1{
+    position: fixed;
+    top: calc(20% - 41px);
+    left: calc(30% - 41px);
+}
+.btn_2{
+    position: absolute;
+    top: 39%;
+    left: 35%;
+}
+.btn_3{
+    position: absolute;
+    top: 76%;
+    left: 20%;
+}
+.btn_4{
+    position: absolute;
+    top: 31%;
+    left: 60%;
+}
+.btn_5{
+    position: absolute;
+    top: 58%;
+    left: 56%;
+}
+.btn_6{
+    position: absolute;
+    top: 10%;
+    left: 72%;
+}
+.btn_7{
+    position: absolute;
+    top: 41%;
+    left: 75%;
+}
+.btn_8{
+    position: absolute;
+    top: 62%;
+    left: 73%;
+}
+.btn_9{
+    position: absolute;
+    top: 92%;
+    left: 59%;
+}
+.btn_10{
+    position: absolute;
+    top: 66%;
+    left: 90%;
+}
