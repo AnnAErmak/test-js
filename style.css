@@ -14,7 +14,7 @@ body {
     margin: 0 auto;
     width: 100vw;
     height: 100vh;
-    background: url("assets/background.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(2, 15, 32, 0.4 ), rgba(0, 0, 0, 0 ) ), url("assets/background.jpg") center/cover no-repeat;
 }
 .btn-blue{
     background: #3877EE;
